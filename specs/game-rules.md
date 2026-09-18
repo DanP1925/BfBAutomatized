@@ -14,7 +14,7 @@ covered below.
 
 ## Objective
 
-Each player controls a team of 2 Heroes. Each side defends one **Elemental
+Each player controls a team of 4 Heroes. Each side defends one **Elemental
 Bit** (guarded by up to 3 Towers) and tries to destroy the opponent's
 Elemental Bit first.
 
@@ -40,26 +40,22 @@ HP wins immediately.
 
 1. Place board; place 3 Gold tokens on each gold-icon space.
 2. Place HP trackers + standees on both players' Towers and Bits.
-3. Give each player 2 Hero Mats.
+3. Give each player 4 Hero Mats.
 4. **Draft Heroes** (snake draft, initiative player picks first):
    - Round 1: initiative player picks 1 Hero, other player picks 2.
    - Round 2: initiative player picks 2, other player picks 2.
    - Round 3: initiative player picks 1.
-   - Result: each player ends with exactly 2 Heroes. When a Hero is drafted,
+   - Result: each player ends with exactly 4 Heroes. When a Hero is drafted,
      give the opposing player that Hero's reference card.
 5. **Starting powers:** each player secretly picks 1 Power Card per drafted
-   Hero (recommend the "A" card) → hand of 2 cards. Cannot pick the
+   Hero (recommend the "A" card) → hand of 4 cards. Cannot pick the
    Ultimate ("Z") card until that Hero reaches level 4.
 6. **Starting deck:** each player gets a 12-card basic deck (Strike x4, Parry
    x4, Dash x2, Defend x2), shuffled once (decks are **never reshuffled**
    again for the rest of the game — see Shuffle-Free Zone below). Draw 4 →
-   total starting hand = 8 cards (2 power + ... wait, see note).
-
-   > Rulebook text: preliminary hand is 4 (1 power card per Hero, 2 Heroes),
-   > then draw 4 from the basic deck → **8 cards in hand** at game start.
-
+   total starting hand = 8 cards (4 power + 4 basic).
 7. **Deploy Heroes:** initiative player places 1 Hero standee on any of their
-   own Tower spaces; other player does the same; alternate until both
+   own Tower spaces; other player does the same; alternate until all
    Heroes per player are deployed. Max 2 Heroes per space during deployment
    (no limit after deployment completes).
 8. Set each Hero's level cube to 1, and HP cube to (base HP + level).
